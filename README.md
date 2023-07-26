@@ -1,4 +1,4 @@
-# Methods-of-Data-Fusion
+# Methods-of-Data-Fusion (For Remote Sensing Images)
 Some materials, references, and codes for data fusion methods are documented here.
 
 ## A review of the references (with code links if available)
