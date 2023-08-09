@@ -1,4 +1,4 @@
-# Methods-of-Data-Fusion (For Remote Sensing Images)
+# Methods-of-Data-Fusion (Spatiotemporal Fusion (STF) Methods For Remote Sensing Images)
 Some materials, references, and codes for data fusion methods are documented here.
 
 Some summaries by others: https://github.com/max19951001/Free-shared-Spatiotemporal-method-of-remote-sensing-
